@@ -2,6 +2,9 @@
 
 >The tilt of the iSpindle floating in the wort can be converted into degrees Plato (ºPlato), density (SG) or other units. To be able to do so, a reference should be made between the degrees of tilt of the iSpindle and the chosen unit. Reference values will have to be measured and with the use of an Excel table a graph and formula is made. Excel will calculate the relation between the tilt of the iSpindle and Plato degrees, density or others. As each self built iSpindle will differ, the reference measurement is needed to be done for each individual iSpindle, but only once. 
 
+# Ubidots Connection - https://ubidots.com/
+First you should create an account on Ubidots. After login, click on your  account icon, on the top right and click API Credentials. You should see a nex panel on top of the screen. click on the right with rectangle next to .Default token. The token then could be copied by clicking on the icon right next to the token. Now, you can copy this token to your Ispindel configuration and start sending and receiving data 
+
 ***
 
 # Content
